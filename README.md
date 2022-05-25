@@ -36,7 +36,7 @@
 <p align="center">
  <a href="https://linkedin.com/in/mohamed-saeed-76a00b21b" target="blank"> <code> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-76a00b21b" height="30" width="40" /> </code> </a> 
  &nbsp;&nbsp;
-<a href="https://codeforces.com/profile/mohamedsead581" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" /></code></a>
+<code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" /></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
