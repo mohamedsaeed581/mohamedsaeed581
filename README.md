@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about flutter
-- 📫 How to reach me: [LinkedIn -@mohamedsaeed](https://www.linkedin.com/in/mohamed-sead-76a00b21b) 
+- 📫 How to reach me: [LinkedIn -@mohamedsaeed](http://linkedin.com/in/mohamed-saeed-76a00b21b) 
 
