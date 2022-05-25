@@ -36,9 +36,9 @@
 
 
 <div align="center">
-<code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-76a00b21b" height="30" width="40" /></code> 
-<!--  &nbsp;&nbsp; -->
-<code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" /></code> 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-76a00b21b" height="30" width="40" />
+ &nbsp;&nbsp;
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" />
 </div>
 
 
