@@ -15,9 +15,9 @@
 </p>
 <h3 align="center">A passionate mobile developer</h3>
 <div align="center">
-   <img src="https://badges.pufler.dev/repos/mohamedsaeed581" alt="ahmed-ssalem"/>
+   <img src="https://badges.pufler.dev/repos/mohamedsaeed581" alt="mohamedsaeed581"/>
    &nbsp; &nbsp;
-   <img src="https://komarev.com/ghpvc/?username=mohamedsaeed581&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
+   <img src="https://komarev.com/ghpvc/?username=mohamedsaeed581&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed581" /> 
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaeed581&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed581" /> </p>
@@ -34,9 +34,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
- <a href="https://linkedin.com/in/mohamed-saeed-76a00b21b" target="blank"> <code> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-76a00b21b" height="30" width="40" /></a> </code>
+ <a href="https://linkedin.com/in/mohamed-saeed-76a00b21b" target="blank"> <code> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-76a00b21b" height="30" width="40" /> </code> </a> 
  &nbsp;&nbsp;
-<a href="https://codeforces.com/profile/mohamedsead581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mohamedsead581" target="blank"><code><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamedsead581" height="30" width="40" /></code></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
