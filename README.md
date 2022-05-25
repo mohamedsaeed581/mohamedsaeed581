@@ -1,7 +1,7 @@
 ### Hello, I’m Mohamed Saeed👋
-
+<p align="center">
  <img  alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="700"/>
-
+</p>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on LinkedIn
