@@ -14,6 +14,11 @@
  <img  alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="700"/>
 </p>
 <h3 align="center">A passionate mobile developer</h3>
+<div align="center">
+   <img src="https://badges.pufler.dev/repos/mohamedsaeed581" alt="ahmed-ssalem"/>
+   &nbsp; &nbsp;
+   <img src="https://komarev.com/ghpvc/?username=mohamedsaeed581&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ssalem" /> 
+</div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaeed581&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed581" /> </p>
  -->
