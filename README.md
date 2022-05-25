@@ -1,6 +1,6 @@
 ### Hello, I’m Mohamed Saeed👋
 
- <img  alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400"/>
+ <img  alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="700"/>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter
