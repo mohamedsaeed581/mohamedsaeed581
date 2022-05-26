@@ -60,9 +60,8 @@
 &nbsp;&nbsp;
 <code> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </code>
  &nbsp;&nbsp; </div>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeed581&show_icons=true&locale=en&layout=compact" alt="mohamedsaeed581" /></p>
+<br></br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeed581&show_icons=true&locale=en&layout=compact" alt="mohamedsaeed581" /></p>
 
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed581&show_icons=true&locale=en" alt="mohamedsaeed581" /></p>
 
